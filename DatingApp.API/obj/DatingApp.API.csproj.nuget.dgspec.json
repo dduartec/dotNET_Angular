@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Familia Duarte Camac\\Documents\\Diego\\dotNET_Angular\\DatingApp.API\\DatingApp.API.csproj": {}
+    "D:\\Slab\\Cursos\\dotNET_Angular\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Familia Duarte Camac\\Documents\\Diego\\dotNET_Angular\\DatingApp.API\\DatingApp.API.csproj": {
+    "D:\\Slab\\Cursos\\dotNET_Angular\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Familia Duarte Camac\\Documents\\Diego\\dotNET_Angular\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "D:\\Slab\\Cursos\\dotNET_Angular\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "C:\\Users\\Familia Duarte Camac\\Documents\\Diego\\dotNET_Angular\\DatingApp.API\\DatingApp.API.csproj",
-        "packagesPath": "C:\\Users\\Familia Duarte Camac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Familia Duarte Camac\\Documents\\Diego\\dotNET_Angular\\DatingApp.API\\obj\\",
+        "projectPath": "D:\\Slab\\Cursos\\dotNET_Angular\\DatingApp.API\\DatingApp.API.csproj",
+        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+        "outputPath": "D:\\Slab\\Cursos\\dotNET_Angular\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Familia Duarte Camac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
